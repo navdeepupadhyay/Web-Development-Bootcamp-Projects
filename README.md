@@ -2,7 +2,7 @@
 
 * Instructor: Angela Yu, lead instructor at the London App Brewery  
 * Platform: Udemy  
-* Certificate link: https://www.udemy.com/certificate/UC-1bbfebde-b3cb-4c7d-9fb4-803fea772a08/)  
+* Certificate link:https://www.udemy.com/certificate/UC-12b1b0e2-f0c2-48bf-ac61-5718a04d235e/
 
 Content:
 - Front-End Web Development
